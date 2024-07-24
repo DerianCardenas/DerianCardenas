@@ -1,10 +1,12 @@
 ### Hi Derian here!!! 👋
 
 ## Github Stats :pushpin:
+<div id="header" align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deriancardenas&show_icons=true&hide=stars&theme=ayu-mirage&hide_border=true&)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deriancardenas&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<div id="header" align="center">
-  <iframe src="https://giphy.com/embed/xbLZjyMNQqEpTKjkSm" width="276" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-geek-developer-dev-xbLZjyMNQqEpTKjkSm">via GIPHY</a></p>
+   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp)" width="100"/>
+   
 </div>
 <div id="content" align="center">
   # Sobre mí
