@@ -1,10 +1,10 @@
 ### Hi, Derian here!!! 👋
 
-<div align="center" style="display:flex; justify-content:'space-evenly'">
+<div align="center" style="display:flex; width:'70%' justify-content:'space-evenly'">
   <a href="https://app.daily.dev/deriancardenas">
     <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="150" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
   </a>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="150"/>
 </div>
 
 <div id="content" align="center">
