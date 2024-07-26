@@ -1,9 +1,12 @@
 ### Hi Derian here!!! 👋
-
+<div align="center">
+  <a href="https://app.daily.dev/deriancardenas">
+    <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="100" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
+  </a>
+</div>
 ## Github Stats :pushpin:
 <div id="header" align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deriancardenas)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deriancardenas&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
    
@@ -73,8 +76,4 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
   </a>
 </div>
 
-<div align="center">
-  <a href="https://app.daily.dev/deriancardenas">
-    <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="400" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
-  </a>
-</div>
+
