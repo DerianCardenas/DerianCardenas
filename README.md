@@ -68,13 +68,13 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 ## Contacto
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/deriancardenas">
+  <a href="https://www.linkedin.com/in/derian-alexis-cardenas-mortera-329674171/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.google.com">
+  <a href="mailto:cardenasmorteraderian@gmail.com">
     <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
   </a>
-  <a href="https://github.com/deriancardenas">
+  <a href="https://github.com/DerianCardenas">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
   </a>
 </div>
