@@ -4,12 +4,11 @@
   <a href="https://app.daily.dev/deriancardenas">
     <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="150" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
   </a>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="100"/>
 </div>
-
 
 <div id="content" align="center">
   <h1>Sobre mí</h1>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="100"/>
 </div>
 
 Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y desarrollo de interfaces de usuario intuitivas y responsivas utilizando Vue, JavaScript, CSS y Bootstrap. También tengo experiencia en el desarrollo de aplicaciones backend con PHP y Laravel 10.
