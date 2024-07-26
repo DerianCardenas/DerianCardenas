@@ -3,8 +3,9 @@
 ## Github Stats :pushpin:
 <div id="header" align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deriancardenas&show_icons=true&hide=stars&theme=ayu-mirage&hide_border=true&)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deriancardenas)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deriancardenas&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
    
 </div>
 
