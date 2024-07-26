@@ -1,30 +1,34 @@
-### Hi Derian here!!! 👋
+### Hi, Derian here!!! 👋
+
 <div align="center" style="display:flex; justify-content:'space-evenly'">
   <a href="https://app.daily.dev/deriancardenas">
     <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="150" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
   </a>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deriancardenas&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deriancardenas&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 ## Github Stats :pushpin:
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deriancardenas&show_icons=true&hide=stars&theme=ayu-mirage&hide_border=true&)
+</div>
 
 <div id="content" align="center">
   <h1>Sobre mí</h1>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="100"/>
 </div>
 
-Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y desarrollo de interfaces de usuario intuitivas y responsivas utilizando Vue, Javascript, CSS y Bootstrap. Además, tengo experiencia en el desarrollo de aplicaciones backend con PHP y Laravel 10.
+Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y desarrollo de interfaces de usuario intuitivas y responsivas utilizando Vue, JavaScript, CSS y Bootstrap. También tengo experiencia en el desarrollo de aplicaciones backend con PHP y Laravel 10.
 
 <div id="content" align="center">
   <h2>Experiencia laboral</h2>
 </div>
 
 ### Desarrollador Frontend en [Azit] (Enero 2023 - Actualidad)
-* Diseño y desarrollo de interfaces de usuario con Vue, Javascript, CSS y Bootstrap
-* Colaboración con el equipo de desarrollo para implementar soluciones efectivas
+* Diseño y desarrollo de interfaces de usuario con Vue, JavaScript, CSS y Bootstrap.
+* Colaboración con el equipo de desarrollo para implementar soluciones efectivas.
 
 ### Desarrollador Backend en [Azit] (Abril 2023 - Actualidad)
-* Desarrollo de aplicaciones backend con PHP y Laravel 10
+* Desarrollo de aplicaciones backend con PHP y Laravel 10.
 
 <div id="content" align="center">
   <h2>Proyectos destacados</h2>
@@ -44,19 +48,19 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 </div>
 
 ### Profesor de desarrollo web en el Instituto Tecnológico de Veracruz (Fecha)
-* Impartí cursos de desarrollo web a estudiantes universitarios por 1 año y medio
+* Impartí cursos de desarrollo web a estudiantes universitarios por 1 año y medio.
 
 ### Co-líder y co-fundador de la comunidad CodTI-Web en el Instituto Tecnológico de Veracruz (Fecha)
-* Organizamos talleres de desarrollo web para estudiantes y profesionales
+* Organizamos talleres de desarrollo web para estudiantes y profesionales.
 
 <div id="content" align="center">
   <h2>Habilidades</h2>
 </div>
 
-* Desarrollo frontend con Vue, Javascript, CSS y Bootstrap
-* Desarrollo backend con PHP y Laravel 10
-* Diseño de interfaces de usuario intuitivas y responsivas
-* Colaboración en equipo y comunicación efectiva
+* Desarrollo frontend con Vue, JavaScript, CSS y Bootstrap.
+* Desarrollo backend con PHP y Laravel 10.
+* Diseño de interfaces de usuario intuitivas y responsivas.
+* Colaboración en equipo y comunicación efectiva.
 
 ## Contacto
 
@@ -71,5 +75,3 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
   </a>
 </div>
-
-
