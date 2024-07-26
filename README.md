@@ -55,6 +55,15 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 * Desarrollo backend con PHP y Laravel 10.
 * Diseño de interfaces de usuario intuitivas y responsivas.
 * Colaboración en equipo y comunicación efectiva.
+* 
+<div id="content" align="center">
+  <h2>Aprendiendo:</h2>
+</div>
+
+* Desarrollo frontend con React.
+* Desarrollo backend con Python.
+* Desarrollo de aplicaciones de escritorio con Python.
+* Desarrollo de videojuegos con Unity.
 
 ## Contacto
 
