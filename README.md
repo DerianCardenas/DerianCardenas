@@ -8,6 +8,7 @@
 </div>
 
 <div id="content" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRvaDY2MG95Ym84ZWEwdzZhNThsMTF5bHFpaTBnZDJpbG5kdGZkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="600px" height="400px"/>
   <h1>Sobre mí</h1>
 </div>
 
@@ -41,11 +42,11 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
   <h2>Experiencia académica</h2>
 </div>
 
-### Profesor de desarrollo web en el Instituto Tecnológico de Veracruz (Fecha)
+### Asesor de desarrollo web y programación en Java en el Instituto Tecnológico de Veracruz (Febrero 2022 - Diciembre 2023)
 * Impartí cursos de desarrollo web a estudiantes universitarios por 1 año y medio.
 
-### Co-líder y co-fundador de la comunidad CodTI-Web en el Instituto Tecnológico de Veracruz (Fecha)
-* Organizamos talleres de desarrollo web para estudiantes y profesionales.
+### Co-líder y co-fundador de la comunidad CodTI-Web en el Instituto Tecnológico de Veracruz (Febrero 2022 - Diciembre 2023)
+* Organizamos talleres de desarrollo web para estudiantes.
 
 <div id="content" align="center">
   <h2>Habilidades</h2>
@@ -55,7 +56,7 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 * Desarrollo backend con PHP y Laravel 10.
 * Diseño de interfaces de usuario intuitivas y responsivas.
 * Colaboración en equipo y comunicación efectiva.
-* 
+  
 <div id="content" align="center">
   <h2>Aprendiendo:</h2>
 </div>
