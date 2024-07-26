@@ -1,11 +1,5 @@
 ### Hi, Derian here!!! 👋
 
-<div align="center" style="display:flex; justify-content:'space-evenly'">
-  <img style="margin-right:'50px;'" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="150"/>
-  <a style="margin-left:'50px;'" href="https://app.daily.dev/deriancardenas">
-    <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="190" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
-  </a>
-</div>
 
 <div id="content" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRvaDY2MG95Ym84ZWEwdzZhNThsMTF5bHFpaTBnZDJpbG5kdGZkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="600px" height="400px"/>
@@ -25,6 +19,12 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 ### Desarrollador Backend en [Azit] (Abril 2023 - Actualidad)
 * Desarrollo de aplicaciones backend con PHP y Laravel 10.
 
+<div align="center" style="display:flex; justify-content:'space-evenly'">
+  <img style="margin-right:'50px;'" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="150"/>
+  <a style="margin-left:'50px;'" href="https://app.daily.dev/deriancardenas">
+    <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="190" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
+  </a>
+</div>
 <div id="content" align="center">
   <h2>Proyectos destacados</h2>
 </div>
