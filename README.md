@@ -10,10 +10,13 @@
 </div>
 <div id="content" align="center">
   # Sobre mí
+</div>
 
 Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y desarrollo de interfaces de usuario intuitivas y responsivas utilizando Vue, Javascript, CSS y Bootstrap. Además, tengo experiencia en el desarrollo de aplicaciones backend con PHP y Laravel 10.
 
+<div id="content" align="center">
 ## Experiencia laboral
+</div>
 
 ### Desarrollador Frontend en [Azit] (Enero 2023 - Actualidad)
 
@@ -24,7 +27,9 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 
 * Desarrollo de aplicaciones backend con PHP y Laravel 10
 
+<div id="content" align="center">
 ## Proyectos destacados
+</div>
 
 ### Sistema de compras estatales de la Secretaría de Jalisco
 
@@ -38,7 +43,9 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 
 * Desarrollé un sistema web para controlar el proceso de ganado, desde la compra y alimentación hasta la venta, mejorando la eficiencia y control del cliente.
 
+<div id="content" align="center">
 ## Experiencia académica
+</div>
 
 ### Profesor de desarrollo web en el Instituto Tecnológico de Veracruz (Fecha)
 
@@ -48,7 +55,9 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 
 * Organizamos talleres de desarrollo web para estudiantes y profesionales
 
+<div id="content" align="center">
 ## Habilidades
+</div>
 
 * Desarrollo frontend con Vue, Javascript, CSS y Bootstrap
 * Desarrollo backend con PHP y Laravel 10
@@ -57,7 +66,6 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 
 ## Contacto
 
-</div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
