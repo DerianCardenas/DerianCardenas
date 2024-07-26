@@ -7,12 +7,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deriancardenas&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
    
 </div>
-<div id="content" align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="100"/>
-</div>
 
 <div id="content" align="center">
   <h1>Sobre mí</h1>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4emJkajVobmE2OWU0OGZmdzJsdXpodmdrcTVya2xpYm9jeG41diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.webp" width="100"/>
 </div>
 
 Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y desarrollo de interfaces de usuario intuitivas y responsivas utilizando Vue, Javascript, CSS y Bootstrap. Además, tengo experiencia en el desarrollo de aplicaciones backend con PHP y Laravel 10.
