@@ -1,15 +1,11 @@
 ### Hi, Derian here!!! 👋
 
 <div align="center" style="display:flex; justify-content:'space-evenly'">
-  <div >
-    <a href="https://app.daily.dev/deriancardenas">
-      <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="150" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
-    </a>
-  </div>
-  <div >
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deriancardenas&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+  <a href="https://app.daily.dev/deriancardenas">
+    <img src="https://api.daily.dev/devcards/b9974f56873140a5b6de18e3e4d8684a.png?r=gxg" width="150" alt="Derian Alexis Cárdenas Mortera's Dev Card"/>
+  </a>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deriancardenas&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Stats :pushpin:
 <div align="center">
