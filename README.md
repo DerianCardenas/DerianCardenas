@@ -16,7 +16,7 @@ Soy un desarrollador web apasionado con 1 año de experiencia en el diseño y de
 * Diseño y desarrollo de interfaces de usuario con Vue, JavaScript, CSS y Bootstrap.
 * Colaboración con el equipo de desarrollo para implementar soluciones efectivas.
 
-### Desarrollador Backend en [Azit] (Abril 2023 - Actualidad)
+### Desarrollador Backend en [Azit] (Abril 2024 - Actualidad)
 * Desarrollo de aplicaciones backend con PHP y Laravel 10.
 
 <div align="center" style="display:flex; justify-content:'space-evenly'">
